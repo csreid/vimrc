@@ -18,6 +18,7 @@ hi Function     term=NONE cterm=NONE ctermfg=DarkCyan    ctermbg=Black
 hi Statement    term=BOLD cterm=BOLD ctermfg=DarkBlue    ctermbg=Black
 hi Special      term=NONE cterm=NONE ctermfg=DarkGreen   ctermbg=Black
 hi SpecialChar  term=NONE cterm=NONE ctermfg=Cyan        ctermbg=Black
+hi SpecialKey   term=NONE cterm=NONE ctermfg=DarkGrey     ctermbg=Black
 hi Constant     term=NONE cterm=NONE ctermfg=Blue        ctermbg=Black
 hi Comment      term=NONE cterm=NONE ctermfg=DarkGray    ctermbg=Black
 hi Preproc      term=NONE cterm=NONE ctermfg=DarkGreen   ctermbg=Black
